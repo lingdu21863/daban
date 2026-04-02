@@ -1,9 +1,3 @@
-每天A股收盘
-
-我会让DeepSeek总结一下市场
-
-prompt是：总结一下今天的市场
-
-以后我会尝试更多
-
-我的目的是找出市场与新闻之间的强关联
+git remote add origin git@github.com:lingdu21863/repo.git
+git branch -M main
+git push -u origin main

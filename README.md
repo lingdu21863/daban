@@ -1,5 +1,4 @@
-git remote add origin git@github.com:lingdu21863/repo.git
+每天用ai生成投资报告
 
-git branch -M main
+后期会更新自己的操作
 
-git push -u origin main
